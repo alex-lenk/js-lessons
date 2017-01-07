@@ -1,0 +1,5 @@
+.idea/
+*.iml
+js-lessons.iml
+build/
+node_modules/

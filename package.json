@@ -1,0 +1,21 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Gulp frontend",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Lenk",
+  "license": "MIT",
+  "devDependencies": {
+    "bower-installer": "^1.*",
+    "browser-sync": "^2.*",
+    "gulp": "^3.9.1",
+    "gulp-plumber": "^1.*",
+    "gulp-rigger": "^0.*",
+    "gulp-uglify": "^1.*",
+    "gulp-util": "^3.*",
+    "gulp-watch": "^4.*"
+  }
+}
